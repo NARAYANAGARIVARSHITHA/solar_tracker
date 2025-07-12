@@ -1,2 +1,2 @@
 # solar_tracker
-This is Arduino-based project 
+This is aArduino-based project 
